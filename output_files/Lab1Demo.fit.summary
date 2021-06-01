@@ -1,0 +1,20 @@
+Fitter Status : Successful - Tue Jun 01 09:28:05 2021
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : Lab1Demo
+Top-level Entity Name : Top_bumpy_Game
+Family : Cyclone V
+Device : 5CSXFC6D6F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 1,385 / 41,910 ( 3 % )
+Total registers : 2180
+Total pins : 55 / 499 ( 11 % )
+Total virtual pins : 0
+Total block memory bits : 2,261,120 / 5,662,720 ( 40 % )
+Total RAM Blocks : 278 / 553 ( 50 % )
+Total DSP Blocks : 0 / 112 ( 0 % )
+Total HSSI RX PCSs : 0 / 9 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 9 ( 0 % )
+Total HSSI TX PCSs : 0 / 9 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 9 ( 0 % )
+Total PLLs : 0 / 15 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

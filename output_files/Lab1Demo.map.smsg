@@ -1,0 +1,5 @@
+Warning (10268): Verilog HDL information at game_controller.sv(22): always construct contains both blocking and non-blocking assignments File: W:/projects/lab_1a_finalproject/FPGA_lab_project/RTL/VGA/game_controller.sv Line: 22
+Warning (10268): Verilog HDL information at square_object.sv(38): always construct contains both blocking and non-blocking assignments File: W:/projects/lab_1a_finalproject/FPGA_lab_project/RTL/VGA/square_object.sv Line: 38
+Warning (10268): Verilog HDL information at game_controller_all.sv(27): always construct contains both blocking and non-blocking assignments File: W:/projects/lab_1a_finalproject/FPGA_lab_project/RTL/VGA/game_controller_all.sv Line: 27
+Warning (10268): Verilog HDL information at platform_object.sv(40): always construct contains both blocking and non-blocking assignments File: W:/projects/lab_1a_finalproject/FPGA_lab_project/RTL/VGA/platform_object.sv Line: 40
+Warning (10268): Verilog HDL information at trans_platform_object.sv(37): always construct contains both blocking and non-blocking assignments File: W:/projects/lab_1a_finalproject/FPGA_lab_project/RTL/VGA/trans_platform_object.sv Line: 37

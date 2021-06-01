@@ -1,0 +1,130 @@
+Restore Archived Project report for Lab1Demo
+Tue Jun 01 09:24:01 2021
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Tue Jun 01 09:24:01 2021 ;
+; Revision Name                   ; Lab1Demo                              ;
+; Top-level Entity Name           ; Top_bumpy_Game                        ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'W:/projects/lab_1a_finalproject/FPGA_lab_project/Project_Archvie_30_08_1748.qar' into the 'W:\\projects\\lab_1a_finalproject\\FPGA_lab_project/' directory
+Info: Generated report 'Lab1Demo.restore.rpt'
+Info (23030): Evaluation of Tcl script w:/study/lab/quatrus/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4817 megabytes
+    Info: Processing ended: Tue Jun 01 09:24:01 2021
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-------------------------------------------------------+
+; Files Restored                                        ;
++-------------------------------------------------------+
+; File Name                                             ;
++-------------------------------------------------------+
+; qar_info.json                                         ;
+; DE10_Standard_Audio.sdc                               ;
+; Lab1Demo.qpf                                          ;
+; Lab1Demo.qsf                                          ;
+; RTL/Draw_control.sv                                   ;
+; RTL/KEYBOARD/TOP_KBD_DEMOALL.bdf                      ;
+; RTL/KEYBOARD/keyPad_decoder.sv                        ;
+; RTL/KEYBOARD/keyToggle_decoder.sv                     ;
+; RTL/KEYBOARD/random.sv                                ;
+; RTL/MSS/SinTable.sv                                   ;
+; RTL/MSS/TOP_MSS_DEMO.bdf                              ;
+; RTL/MSS/ToneDecoder.sv                                ;
+; RTL/MSS/addr_counter.sv                               ;
+; RTL/MSS/data_conversion.sv                            ;
+; RTL/MSS/prescaler.sv                                  ;
+; RTL/Seg7/SEG7.SV                                      ;
+; RTL/VGA/Bumpy_Movment_Logic.sv                        ;
+; RTL/VGA/NumbersBitMap.sv                              ;
+; RTL/VGA/TOP_VGA_DEMO_WITH_MSS_ALL.bdf                 ;
+; RTL/VGA/Top_bumpy_Game.bdf                            ;
+; RTL/VGA/VGA_Controller.sv                             ;
+; RTL/VGA/back_ground_drawSquare.sv                     ;
+; RTL/VGA/game_controller.sv                            ;
+; RTL/VGA/game_controller_all.sv                        ;
+; RTL/VGA/objects_mux.sv                                ;
+; RTL/VGA/objects_mux_all.sv                            ;
+; RTL/VGA/platform_object.sv                            ;
+; RTL/VGA/smileyBitMap.sv                               ;
+; RTL/VGA/smileyface_moveCollision.sv                   ;
+; RTL/VGA/square_object.sv                              ;
+; RTL/VGA/trans_platform_object.sv                      ;
+; RTL/VGA/valX.bsf                                      ;
+; RTL/VGA/valX.qip                                      ;
+; RTL/VGA/valX.v                                        ;
+; RTL/VGA/valX_bb.v                                     ;
+; RTL/VGA/valX_inst.v                                   ;
+; RTL/audio_codec_controller/audio_codec_controller.qxp ;
+; RTL/numberPosition.bsf                                ;
+; RTL/numberPosition.qip                                ;
+; RTL/numberPosition.v                                  ;
+; RTL/numberPosition_bb.v                               ;
+; Waveform.vwf                                          ;
+; X_posotion.bsf                                        ;
+; X_posotion.qip                                        ;
+; X_posotion.v                                          ;
+; X_posotion_bb.v                                       ;
+; Y_cnt.bsf                                             ;
+; Y_cnt.qip                                             ;
+; Y_cnt.v                                               ;
+; Y_cnt_bb.v                                            ;
+; assignment_defaults.qdf                               ;
+; constraints/DE10_Standard_Audio.sdc                   ;
+; constraints/pin.tcl                                   ;
+; db/stp2_auto_stripped.stp                             ;
+; output_files/Chain1.cdf                               ;
+; output_files/stp2.stp                                 ;
++-------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
